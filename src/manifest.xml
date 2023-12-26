@@ -1,0 +1,4 @@
+<manifest projecttype="ACCOUNTCUSTOMIZATION">
+  <projectname>NetSuite AES Encrypt Decrypt String</projectname>
+  <frameworkversion>1.0</frameworkversion>
+</manifest>
