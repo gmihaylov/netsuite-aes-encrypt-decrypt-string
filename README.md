@@ -1,5 +1,5 @@
-# NetSuite Scheduled Script RESTlet Call
-Simple Suitelet that encrypt / decrypt string in AES
+# NetSuite AES Encrypt Decrypt String
+Simple Suitelet that encrypts / decrypts string in AES
 
 ## Used libraries
 - crypto-js
